@@ -1,5 +1,5 @@
 # Cabin Passenger
-# Made by Chetan Tyagi.
+Made by Chetan Tyagi.
 
 # Introduction
 This application, named Cabin Passenger aims to solve the problem of the inability to imagine the past. Cabin Passenger uses the recently released DALL-E API, along with a user-friendly text-based program for the best results. The app will obtain inputs of a country and a specific year to provide how life was in the era. This can provide a whole new perspective on how people see history. 
